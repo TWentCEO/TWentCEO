@@ -6,7 +6,7 @@
 <p>
 <a href="https://velog.io/@xodn127"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@xodn127"/></a>&nbsp
 </p>
-<img width="30%" align="center" src="https://github-readme-stats.vercel.app/api?username=TWentCEO&show_icons=true&theme=dracula">
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=TWentCEO&show_icons=true&theme=dracula">
 <br>
 
  <p>
@@ -19,5 +19,5 @@
  
 <h3 >🪄 Blog </h3>
 <p>
-  <img width="30%" src="https://velog-readme-stats.vercel.app/api?name=xodn127">
+  <img width="50%" src="https://velog-readme-stats.vercel.app/api?name=xodn127">
 </p>
